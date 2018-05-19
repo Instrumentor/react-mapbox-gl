@@ -236,6 +236,7 @@ const ReactMapboxFactory = ({
         classes,
         bearingSnap,
         failIfMajorPerformanceCaveat,
+        fadeDuration: 0,
         transformRequest
       };
 
